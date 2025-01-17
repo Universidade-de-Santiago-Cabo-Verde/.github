@@ -12,14 +12,12 @@ Seja você um estudante, ex-aluno ou um colaborador apaixonado da comunidade glo
 - **Proponha novas ideias**: Sugira soluções inovadoras para ampliar nosso impacto.
 
 ### 👩‍💻 Recursos Úteis
-- **[Website](https://www.us.cv/)**: Saiba mais sobre nossos programas, notícias e eventos.
+- **[Website](https://www.us.edu.cv/)**: Saiba mais sobre nossos programas, notícias e eventos.
 - **Documentação**: Confira nosso [Wiki](https://github.com/UniversidadeSantiago/wiki) para guias e recursos.
 - **Fórum da Comunidade**: Conecte-se com nossa equipe e colegas no nosso [Quadro de Discussões](https://github.com/UniversidadeSantiago/discussions).
 
 ### 🍿 Curiosidades
-- Estamos localizados na pitoresca cidade de Assomada, cercados pela beleza natural de Cabo Verde.
-- Nossos estudantes desfrutam de uma rica mistura de atividades culturais e desafios acadêmicos.
-- O café da manhã no nosso campus frequentemente inclui "cachupa," um prato muito amado em Cabo Verde! 🥘
+- 
 
 ### 🧙 Junte-se à Nossa Jornada
 Juntos, podemos alcançar grandes feitos! Vamos construir um futuro de conhecimento e inovação com o poder da colaboração e soluções de código aberto.
